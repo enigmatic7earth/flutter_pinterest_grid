@@ -1,6 +1,6 @@
 # pinterest_grid_app
 
-A new Flutter project.
+A simple Flutter demo using the [flutter_staggered_grid_view](https://github.com/letsar/flutter_staggered_grid_view).
 
 ## Getting Started
 
